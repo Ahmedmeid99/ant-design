@@ -1,0 +1,16 @@
+.row_grid {
+  row-gap: 16px;
+}
+.card {
+  text-align: center;
+  border: 1px solid #eee;
+}
+.card_content {
+  color: #2aa32a;
+  font-weight: 600;
+  font-size: 26px;
+}
+.gutter-box {
+  padding: 8px 0;
+  background: #00a0e9;
+}
